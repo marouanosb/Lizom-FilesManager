@@ -1,9 +1,9 @@
 # Lizom-FilesManager
 Copy and rename multiple files.
 
-## MOVE FILES
+### MOVE FILES
     move -t|-n fileTypes|Names destination
     (types: .txt|.pdf|.mp3 ...etc)
-## RENAME FILES
+### RENAME FILES
     rename -n oldText newText
     (to delete the text instead: newText = null)
