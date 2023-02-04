@@ -53,7 +53,7 @@ def move(files, moveFrom, moveTo):
 def help():
 
     print(' # MOVE FILES\n'+
-    '\t move -t|-n fileNames/Types destination\n'+
+    '\t move -t|-n fileTypes|Names destination\n'+
     '\t(types: .txt|.pdf|.mp3 ...etc\n\n'+
     ' # RENAME FILES\n'+
     '\t rename -n oldText newText\n'+
